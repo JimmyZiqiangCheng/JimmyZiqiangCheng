@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimmyZiqiangCheng
-- 👀 I’m interested in developing smart software solutions for personal and industrial applications
-- 🌱 I’m currently learning all about front end development
+- 👀 I’m interested in coding, videography, photography and automobile
+- 🌱 I’m currently learning all about front-end development (micro frontends, Next.js, system design)
 - 💞️ I’m looking to collaborate on javascript, React projects
 - 📫 Reach me at: Jimmychengca@icloud.com
 
